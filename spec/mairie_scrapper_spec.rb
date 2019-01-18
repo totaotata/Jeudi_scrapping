@@ -5,7 +5,7 @@ describe "mairie scrapper" do
     expect(Array).not_to be_nil
   end
 end
-describe "crypto scrapper" do
+describe "mairie scrapper" do
   it "should value not nil" do
     expect(Array[0]).not_to be_nil
   end
