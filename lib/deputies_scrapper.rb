@@ -2,7 +2,6 @@
 require 'pry'
 require 'nokogiri'
 require 'open-uri'
-require 'rubygems'
 
 # metode return_url permettant de recuperer tout les liens des députes de la liste
 # et de stocke les données dans un array url
